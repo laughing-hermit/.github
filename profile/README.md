@@ -12,4 +12,4 @@ More is on the way.
 
 ## Get in touch
 
-admin@laughinghermit.com · Puerto Rico
+dev@laughinghermit.com · Puerto Rico
